@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Usage
 
 ```bash
@@ -26,3 +27,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
+=======
+# Galer-a-de-im-genes-con-solid.js
+Galería de imágenes con solid.js
+>>>>>>> acd0becbd3c5815e08b83368cbf5f0d241d33e41
